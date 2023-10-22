@@ -1,8 +1,8 @@
 {
 	"name": "charliedev/section-field",
-	"description": "Field type that allows the selection of Craft sections.",
+	"description": "Field type that allows the selection of Craft sections. Version 2+ supports Craft 4+!",
 	"type": "craft-plugin",
-	"version": "1.1.0",
+	"version": "2.0.0",
 	"license": "MIT",
 	"authors": [
 		{
@@ -24,7 +24,7 @@
 		"email": "support@charliedev.com"
 	},
 	"require": {
-		"craftcms/cms": "^3.0.0-RC1"
+		"craftcms/cms": "^4.0.0"
 	},
 	"autoload": {
 		"psr-4": {
